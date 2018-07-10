@@ -1,0 +1,3254 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Rentax\n"
+"POT-Creation-Date: 2017-01-12 14:35+0300\n"
+"PO-Revision-Date: 2017-01-12 14:35+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: autos.php:49 taxonomy-auto-body.php:46 taxonomy-auto-model.php:46
+msgid "10 Autos"
+msgstr ""
+
+#: autos.php:50 taxonomy-auto-body.php:47 taxonomy-auto-model.php:47
+msgid "20 Autos"
+msgstr ""
+
+#: autos.php:51 taxonomy-auto-body.php:48 taxonomy-auto-model.php:48
+msgid "30 Autos"
+msgstr ""
+
+#: autos.php:55 taxonomy-auto-body.php:52 taxonomy-auto-model.php:52
+msgid "Last Added"
+msgstr ""
+
+#: autos.php:56 taxonomy-auto-body.php:53 taxonomy-auto-model.php:53
+msgid "First Added"
+msgstr ""
+
+#: autos.php:57 taxonomy-auto-body.php:54 taxonomy-auto-model.php:54
+msgid "Cheap First"
+msgstr ""
+
+#: autos.php:58 taxonomy-auto-body.php:55 taxonomy-auto-model.php:55
+msgid "Expensive First"
+msgstr ""
+
+#: autos.php:76 taxonomy-auto-body.php:74 taxonomy-auto-model.php:74
+msgid "Show on page"
+msgstr ""
+
+#: autos.php:88 taxonomy-auto-body.php:86 taxonomy-auto-model.php:86
+msgid "Sort by"
+msgstr ""
+
+#: autos.php:121 taxonomy-auto-body.php:119 taxonomy-auto-model.php:119
+msgid "loading"
+msgstr ""
+
+#: autos.php:152 single-pixad-autos-sidebar.php:81 taxonomy-auto-body.php:147
+#: taxonomy-auto-model.php:147
+msgid "Fuel:"
+msgstr ""
+
+#: autos.php:162 single-pixad-autos-sidebar.php:60 taxonomy-auto-body.php:157
+#: taxonomy-auto-model.php:157
+msgid "Mileage:"
+msgstr ""
+
+#: autos.php:172 taxonomy-auto-body.php:167 taxonomy-auto-model.php:167
+msgid "Year:"
+msgstr ""
+
+#: autos.php:193 single-pixad-autos-sidebar.php:116 taxonomy-auto-body.php:191
+#: taxonomy-auto-model.php:191
+msgid "Condition:"
+msgstr ""
+
+#: autos.php:195 taxonomy-auto-body.php:193 taxonomy-auto-model.php:193
+msgid "Used"
+msgstr ""
+
+#: autos.php:197 taxonomy-auto-body.php:195 taxonomy-auto-model.php:195
+msgid "New"
+msgstr ""
+
+#: autos.php:204 single-pixad-autos-sidebar.php:123 taxonomy-auto-body.php:202
+#: taxonomy-auto-model.php:202
+msgid "Drive:"
+msgstr ""
+
+#: autos.php:206 taxonomy-auto-body.php:204 taxonomy-auto-model.php:204
+msgid "Left drive"
+msgstr ""
+
+#: autos.php:208 taxonomy-auto-body.php:206 taxonomy-auto-model.php:206
+msgid "Right drive"
+msgstr ""
+
+#: autos.php:215 taxonomy-auto-body.php:213 taxonomy-auto-model.php:213
+msgid "Engine:"
+msgstr ""
+
+#: autos.php:216 taxonomy-auto-body.php:214 taxonomy-auto-model.php:214
+msgid "cm3"
+msgstr ""
+
+#: autos.php:222 taxonomy-auto-body.php:220 taxonomy-auto-model.php:220
+msgid "Horsepower:"
+msgstr ""
+
+#: autos.php:223 taxonomy-auto-body.php:221 taxonomy-auto-model.php:221
+msgid "hp"
+msgstr ""
+
+#: autos.php:229 taxonomy-auto-body.php:227 taxonomy-auto-model.php:227
+msgid "Doors :"
+msgstr ""
+
+#: autos.php:230 taxonomy-auto-body.php:228 taxonomy-auto-model.php:228
+msgid "doors"
+msgstr ""
+
+#: autos.php:241 taxonomy-auto-body.php:239
+msgid "Price / month:"
+msgstr ""
+
+#: comments.php:22
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:23
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:24
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:34
+msgid "Comments are closed."
+msgstr ""
+
+#: footer.php:26 library/core/admin/admin-panel/footer.php:11
+msgid "Copyright 2016. Design by Pix-Theme"
+msgstr ""
+
+#: library/core/admin/admin-panel/blog.php:5
+msgid "Blog"
+msgstr ""
+
+#: library/core/admin/admin-panel/blog.php:59
+msgid "Read more"
+msgstr ""
+
+#: library/core/admin/admin-panel/blog.php:69
+msgid "Display Date on blog posts"
+msgstr ""
+
+#: library/core/admin/admin-panel/blog.php:74
+#: library/core/admin/admin-panel/blog.php:89
+#: library/core/admin/admin-panel/blog.php:104
+#: library/core/admin/admin-panel/blog.php:119
+#: library/core/admin/admin-panel/blog.php:134
+#: library/core/admin/admin-panel/blog.php:149
+#: library/core/admin/admin-panel/blog.php:164
+#: library/core/admin/admin-panel/general.php:85
+#: library/core/admin/admin-panel/general.php:107
+#: library/core/admin/admin-panel/header.php:130
+#: library/core/admin/admin-panel/header.php:208
+#: library/core/admin/admin-panel/header.php:406
+#: library/core/admin/admin-panel/header.php:427
+#: library/core/admin/admin-panel/header.php:448
+#: library/core/admin/admin-panel/header.php:469
+#: library/core/admin/admin-panel/responsive.php:62
+#: library/core/admin/admin-panel/responsive.php:96
+#: library/core/admin/admin-panel/responsive.php:112
+#: library/core/admin/admin-panel/responsive.php:128
+#: library/core/admin/admin-panel/responsive.php:144
+#: library/core/admin/admin-panel/responsive.php:160
+#: library/core/admin/post-fields.php:584
+#: library/core/admin/post-fields.php:590
+#: library/core/admin/post-fields.php:596
+#: library/core/admin/post-fields.php:602
+#: library/core/admin/post-fields.php:608 library/theme/vc_templates.php:826
+msgid "Off"
+msgstr ""
+
+#: library/core/admin/admin-panel/blog.php:75
+#: library/core/admin/admin-panel/blog.php:90
+#: library/core/admin/admin-panel/blog.php:105
+#: library/core/admin/admin-panel/blog.php:120
+#: library/core/admin/admin-panel/blog.php:135
+#: library/core/admin/admin-panel/blog.php:150
+#: library/core/admin/admin-panel/blog.php:165
+#: library/core/admin/admin-panel/general.php:108
+#: library/core/admin/admin-panel/header.php:129
+#: library/core/admin/admin-panel/header.php:209
+#: library/core/admin/admin-panel/header.php:405
+#: library/core/admin/admin-panel/header.php:426
+#: library/core/admin/admin-panel/header.php:447
+#: library/core/admin/admin-panel/header.php:468
+#: library/core/admin/admin-panel/responsive.php:63
+#: library/theme/vc_templates.php:827
+msgid "On"
+msgstr ""
+
+#: library/core/admin/admin-panel/blog.php:84
+msgid "Display Author name on blog page and single post"
+msgstr ""
+
+#: library/core/admin/admin-panel/blog.php:99
+msgid "Display About Author block on single post"
+msgstr ""
+
+#: library/core/admin/admin-panel/blog.php:114
+msgid "Display Comments on single post"
+msgstr ""
+
+#: library/core/admin/admin-panel/blog.php:129
+msgid "Display Categories"
+msgstr ""
+
+#: library/core/admin/admin-panel/blog.php:144
+msgid "Display Tags"
+msgstr ""
+
+#: library/core/admin/admin-panel/blog.php:159
+msgid "Display share buttons on single post"
+msgstr ""
+
+#: library/core/admin/admin-panel/blog.php:176
+msgid "Read More button text"
+msgstr ""
+
+#: library/core/admin/admin-panel/envato.php:8
+msgid "Envato"
+msgstr ""
+
+#: library/core/admin/admin-panel/envato.php:22
+msgid "Show Envato"
+msgstr ""
+
+#: library/core/admin/admin-panel/envato.php:28
+#: library/core/admin/admin-panel/footer.php:95
+#: library/core/admin/admin-panel/header.php:625
+#: library/core/admin/post-fields.php:148
+#: library/core/admin/post-fields.php:378
+#: library/core/admin/post-fields.php:385
+#: library/core/admin/post-fields.php:392
+#: library/core/admin/post-fields.php:399
+#: library/core/admin/post-fields.php:406
+#: library/core/admin/post-fields.php:413 library/theme/vc_templates.php:57
+#: library/theme/vc_templates.php:239
+msgid "No"
+msgstr ""
+
+#: library/core/admin/admin-panel/envato.php:29
+#: library/core/admin/admin-panel/footer.php:94
+#: library/core/admin/admin-panel/header.php:626
+#: library/core/admin/post-fields.php:147
+#: library/core/admin/post-fields.php:377
+#: library/core/admin/post-fields.php:384
+#: library/core/admin/post-fields.php:391
+#: library/core/admin/post-fields.php:398
+#: library/core/admin/post-fields.php:405
+#: library/core/admin/post-fields.php:412
+msgid "Yes"
+msgstr ""
+
+#: library/core/admin/admin-panel/envato.php:42
+msgid "Envato Currency"
+msgstr ""
+
+#: library/core/admin/admin-panel/envato.php:55
+msgid "Envato Price"
+msgstr ""
+
+#: library/core/admin/admin-panel/envato.php:68
+msgid "Envato Link"
+msgstr ""
+
+#: library/core/admin/admin-panel/footer.php:6
+msgid "Footer"
+msgstr ""
+
+#: library/core/admin/admin-panel/footer.php:19
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: library/core/admin/admin-panel/footer.php:36
+msgid "Footer Block"
+msgstr ""
+
+#: library/core/admin/admin-panel/footer.php:55
+#: library/core/admin/admin-panel/general.php:43
+msgid "Logo image light"
+msgstr ""
+
+#: library/core/admin/admin-panel/footer.php:73
+#: library/core/admin/admin-panel/header.php:699
+msgid "Background image"
+msgstr ""
+
+#: library/core/admin/admin-panel/footer.php:88
+msgid "Show Decor"
+msgstr ""
+
+#: library/core/admin/admin-panel/general.php:6
+#: library/core/admin/admin-panel/header.php:44
+msgid "General Settings"
+msgstr ""
+
+#: library/core/admin/admin-panel/general.php:57
+msgid "Logo image dark"
+msgstr ""
+
+#: library/core/admin/admin-panel/general.php:69
+msgid "Logo Text"
+msgstr ""
+
+#: library/core/admin/admin-panel/general.php:80
+msgid "Loader"
+msgstr ""
+
+#: library/core/admin/admin-panel/general.php:86
+msgid "Use on main"
+msgstr ""
+
+#: library/core/admin/admin-panel/general.php:87
+msgid "Use on all pages"
+msgstr ""
+
+#: library/core/admin/admin-panel/general.php:101
+msgid "Front Editor Button"
+msgstr ""
+
+#: library/core/admin/admin-panel/general.php:102
+msgid "Show button for Visual CSS Style Editor"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:57
+#: library/core/admin/class-tgm-plugin-activation.php:2642
+#: library/theme/vc_templates.php:183
+msgid "Type"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:62
+#: library/core/admin/post-fields.php:123
+msgid "Classic"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:63
+#: library/core/admin/admin-panel/shop.php:22
+#: library/core/admin/post-fields.php:124
+msgid "Shop"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:64
+#: library/core/admin/post-fields.php:125
+msgid "Sidebar"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:79
+#: library/core/admin/post-fields.php:128
+msgid "Sidebar View"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:84
+#: library/core/admin/admin-panel/header.php:109
+#: library/core/admin/post-fields.php:131
+#: library/core/admin/post-fields.php:141 library/theme/vc_templates.php:164
+msgid "Fixed"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:85
+#: library/core/admin/post-fields.php:132
+msgid "Horizontal Button"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:86
+#: library/core/admin/post-fields.php:133
+msgid "Vertical Button"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:102
+msgid "Behavior"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:107
+#: library/core/admin/admin-panel/header.php:262
+#: library/core/admin/post-fields.php:52 library/core/admin/post-fields.php:139
+#: library/theme/vc_templates.php:162 library/theme/vc_templates.php:253
+#: library/theme/vc_templates.php:1222 library/theme/vc_templates.php:1281
+msgid "Default"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:108
+#: library/core/admin/post-fields.php:140
+msgid "Sticky"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:124
+msgid "Menu"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:148
+msgid "Select Menu"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:157
+#: library/core/admin/post-fields.php:152
+msgid "Additional Menu"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:176
+msgid "Additional Menu Position"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:181
+#: library/core/admin/post-fields.php:155
+#: library/core/admin/post-fields.php:747
+msgid "Left Sidebar"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:182
+#: library/core/admin/post-fields.php:156
+#: library/core/admin/post-fields.php:746
+msgid "Right Sidebar"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:183
+#: library/core/admin/post-fields.php:157
+msgid "Top Sidebar"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:184
+#: library/core/admin/post-fields.php:158
+msgid "Bottom Sidebar"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:185
+#: library/core/admin/post-fields.php:159
+msgid "Full Screen"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:186
+msgid "Disabled"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:202
+msgid "Advanced Options on Page"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:220
+msgid "Style"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:234
+msgid "Layout"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:239
+#: library/core/admin/post-fields.php:285
+msgid "Normal"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:240
+#: library/core/admin/post-fields.php:54 library/core/admin/post-fields.php:286
+msgid "Boxed"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:241
+#: library/core/admin/post-fields.php:287
+msgid "Full Width"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:256
+#: library/core/admin/admin-panel/header.php:683
+msgid "Background"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:257
+msgid "Background header color"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:263
+#: library/core/admin/post-fields.php:234
+msgid "White"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:264
+#: library/core/admin/post-fields.php:235
+msgid "Black"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:265
+#: library/core/admin/post-fields.php:236
+msgid "Transparent White"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:266
+#: library/core/admin/post-fields.php:237
+msgid "Transparent Black"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:281
+msgid "Transparent"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:310
+#: library/core/admin/post-fields.php:290
+msgid "Sidebar Menu Animation"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:311
+msgid "Overlay or reveal Sidebar menu animation"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:316
+#: library/core/admin/post-fields.php:293
+msgid "Overlay"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:317
+#: library/core/admin/post-fields.php:294
+msgid "Reveal"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:332
+#: library/core/admin/post-fields.php:255
+msgid "Menu Hover Effect"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:337
+#: library/core/admin/post-fields.php:258
+msgid "Without effect"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:366
+#: library/core/admin/post-fields.php:274
+msgid "Menu Markers"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:371
+#: library/core/admin/post-fields.php:277
+msgid "Arrows"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:372
+#: library/core/admin/post-fields.php:278
+msgid "Dots"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:373
+#: library/core/admin/post-fields.php:279
+msgid "Without markers"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:386
+msgid "Elements"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:400
+msgid "Top Bar"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:421
+#: library/core/admin/admin-panel/header.php:599
+msgid "Minicart"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:442
+#: library/core/admin/admin-panel/search.php:6
+msgid "Search"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:463
+msgid "Socials"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:481
+msgid "Elements Position"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:495
+msgid "Top Bar Email"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:500
+#: library/core/admin/admin-panel/header.php:520
+#: library/core/admin/admin-panel/header.php:541
+#: library/core/admin/admin-panel/header.php:562
+#: library/core/admin/admin-panel/header.php:583
+#: library/core/admin/admin-panel/header.php:604
+#: library/core/admin/post-fields.php:419
+#: library/core/admin/post-fields.php:426
+#: library/core/admin/post-fields.php:433
+#: library/core/admin/post-fields.php:440
+#: library/core/admin/post-fields.php:447
+#: library/core/admin/post-fields.php:454 library/theme/vc_templates.php:302
+#: library/theme/vc_templates.php:1494
+msgid "Left"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:501
+#: library/core/admin/admin-panel/header.php:521
+#: library/core/admin/admin-panel/header.php:542
+#: library/core/admin/admin-panel/header.php:563
+#: library/core/admin/admin-panel/header.php:584
+#: library/core/admin/admin-panel/header.php:605
+#: library/core/admin/post-fields.php:420
+#: library/core/admin/post-fields.php:427
+#: library/core/admin/post-fields.php:434
+#: library/core/admin/post-fields.php:441
+#: library/core/admin/post-fields.php:448
+#: library/core/admin/post-fields.php:455 library/theme/vc_templates.php:303
+#: library/theme/vc_templates.php:1495
+msgid "Right"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:515
+msgid "Top Bar Menu"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:536
+msgid "Logo"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:557
+msgid "Main Menu"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:578
+msgid "Socials And Phone"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:619
+msgid "Admin Bar Opacity"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:639
+msgid "Phone and email"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:653
+msgid "Phone"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:670 library/theme/blog.php:40
+msgid "Email"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:718
+msgid "Overlay Color"
+msgstr ""
+
+#: library/core/admin/admin-panel/header.php:734
+msgid "Overlay Opacity"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:6
+#: library/core/admin/admin-panel/responsive.php:57
+msgid "Responsive"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:72
+#: library/core/admin/admin-panel/responsive.php:89
+#: library/core/admin/post-fields.php:574
+msgid "Header Mobile Behavior"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:73
+msgid "Off header sticky or fixed on mobile"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:78
+#: library/core/admin/admin-panel/responsive.php:95
+#: library/core/admin/admin-panel/responsive.php:111
+#: library/core/admin/admin-panel/responsive.php:127
+#: library/core/admin/admin-panel/responsive.php:143
+#: library/core/admin/admin-panel/responsive.php:159
+#: library/core/admin/post-fields.php:122
+#: library/core/admin/post-fields.php:130
+#: library/core/admin/post-fields.php:138
+#: library/core/admin/post-fields.php:146
+#: library/core/admin/post-fields.php:154
+#: library/core/admin/post-fields.php:233
+#: library/core/admin/post-fields.php:242
+#: library/core/admin/post-fields.php:257
+#: library/core/admin/post-fields.php:276
+#: library/core/admin/post-fields.php:284
+#: library/core/admin/post-fields.php:292
+#: library/core/admin/post-fields.php:376
+#: library/core/admin/post-fields.php:383
+#: library/core/admin/post-fields.php:390
+#: library/core/admin/post-fields.php:397
+#: library/core/admin/post-fields.php:404
+#: library/core/admin/post-fields.php:411
+#: library/core/admin/post-fields.php:418
+#: library/core/admin/post-fields.php:425
+#: library/core/admin/post-fields.php:432
+#: library/core/admin/post-fields.php:439
+#: library/core/admin/post-fields.php:446
+#: library/core/admin/post-fields.php:453
+#: library/core/admin/post-fields.php:576
+#: library/core/admin/post-fields.php:583
+#: library/core/admin/post-fields.php:589
+#: library/core/admin/post-fields.php:595
+#: library/core/admin/post-fields.php:601
+#: library/core/admin/post-fields.php:607
+msgid "Global"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:79
+#: library/core/admin/post-fields.php:577
+msgid "No Sticky"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:80
+#: library/core/admin/post-fields.php:578
+msgid "No Fixed"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:90
+msgid "Off header top bar on mobile"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:105
+#: library/core/admin/post-fields.php:587
+msgid "Tablet Minicart"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:106
+msgid "Off header cart on tablet"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:121
+#: library/core/admin/post-fields.php:593
+msgid "Tablet Search"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:122
+msgid "Off header search on tablet"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:137
+#: library/core/admin/post-fields.php:599
+msgid "Tablet Header Phone"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:138
+msgid "Off header phone on tablet"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:153
+#: library/core/admin/post-fields.php:605
+msgid "Tablet Socials"
+msgstr ""
+
+#: library/core/admin/admin-panel/responsive.php:154
+msgid "Off header social icons on tablet"
+msgstr ""
+
+#: library/core/admin/admin-panel/search.php:28
+msgid "Search Placeholder"
+msgstr ""
+
+#: library/core/admin/admin-panel/search.php:39
+msgid "Search Description"
+msgstr ""
+
+#: library/core/admin/admin-panel/shop.php:5
+#: library/core/admin/admin-panel/shop.php:7
+msgid "No RevSlider"
+msgstr ""
+
+#: library/core/admin/admin-panel/shop.php:41
+msgid "Header RevSlider On Main Shop Page"
+msgstr ""
+
+#: library/core/admin/admin-panel/shop.php:54
+msgid "Header Image"
+msgstr ""
+
+#: library/core/admin/admin-panel/social.php:5
+msgid "Social"
+msgstr ""
+
+#: library/core/admin/admin-panel/social.php:73
+msgid "Facebook URL"
+msgstr ""
+
+#: library/core/admin/admin-panel/social.php:84
+msgid "Twitter URL"
+msgstr ""
+
+#: library/core/admin/admin-panel/social.php:95
+msgid "Pinterest URL"
+msgstr ""
+
+#: library/core/admin/admin-panel/social.php:106
+msgid "Google+ URL"
+msgstr ""
+
+#: library/core/admin/admin-panel/social.php:117
+msgid "Custom Icon 1"
+msgstr ""
+
+#: library/core/admin/admin-panel/social.php:128
+msgid "Custom URL 1"
+msgstr ""
+
+#: library/core/admin/admin-panel/social.php:139
+msgid "Custom Icon 2"
+msgstr ""
+
+#: library/core/admin/admin-panel/social.php:150
+msgid "Custom URL 2"
+msgstr ""
+
+#: library/core/admin/admin-panel/social.php:161
+msgid "Custom Icon 3"
+msgstr ""
+
+#: library/core/admin/admin-panel/social.php:172
+msgid "Custom URL 3"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:334
+#: library/plugins.php:169
+msgid "Install Required Plugins"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:335
+#: library/plugins.php:170
+msgid "Install Plugins"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:337
+#: library/plugins.php:171
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:340
+#: library/plugins.php:172
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:343
+#: library/plugins.php:173
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:349
+#: library/plugins.php:174
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:355
+#: library/plugins.php:179
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:367
+#: library/plugins.php:176
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:373
+#: library/plugins.php:177
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:378
+#: library/plugins.php:181
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:388
+#: library/plugins.php:182
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:392
+#: library/plugins.php:183
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:393
+#: library/core/admin/class-tgm-plugin-activation.php:920
+#: library/core/admin/class-tgm-plugin-activation.php:2626
+#: library/core/admin/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:394
+#: library/core/admin/class-tgm-plugin-activation.php:3252
+#: library/plugins.php:184
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:395
+#: library/core/admin/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:1027
+#: library/core/admin/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:1214
+#: library/core/admin/class-tgm-plugin-activation.php:3041
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2435
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2481
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2575
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3602
+#: library/core/admin/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3602
+#: library/core/admin/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: library/core/admin/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: library/core/admin/index.php:15
+msgid "Choose or Upload an Image"
+msgstr ""
+
+#: library/core/admin/index.php:16
+msgid "Use this image"
+msgstr ""
+
+#: library/core/admin/post-fields.php:17
+msgid "Page Settings"
+msgstr ""
+
+#: library/core/admin/post-fields.php:28
+msgid "Main Color"
+msgstr ""
+
+#: library/core/admin/post-fields.php:32
+msgid "Header Logo Light"
+msgstr ""
+
+#: library/core/admin/post-fields.php:41
+msgid "Header Logo Dark"
+msgstr ""
+
+#: library/core/admin/post-fields.php:50
+msgid "Page Layout"
+msgstr ""
+
+#: library/core/admin/post-fields.php:53
+msgid "Wide"
+msgstr ""
+
+#: library/core/admin/post-fields.php:109
+msgid "Header"
+msgstr ""
+
+#: library/core/admin/post-fields.php:120
+msgid "Header Type"
+msgstr ""
+
+#: library/core/admin/post-fields.php:128
+msgid "(only for header type Sidebar)"
+msgstr ""
+
+#: library/core/admin/post-fields.php:136
+msgid "Header Behavior"
+msgstr ""
+
+#: library/core/admin/post-fields.php:144
+msgid "Show Main Menu"
+msgstr ""
+
+#: library/core/admin/post-fields.php:160 library/theme/vc_templates.php:566
+#: library/theme/vc_templates.php:870 library/theme/vc_templates.php:950
+#: library/theme/vc_templates.php:1085 library/theme/vc_templates.php:1213
+#: library/theme/vc_templates.php:1272 library/theme/vc_templates.php:1370
+msgid "Disable"
+msgstr ""
+
+#: library/core/admin/post-fields.php:220
+msgid "Header Style"
+msgstr ""
+
+#: library/core/admin/post-fields.php:231
+msgid "Header Background"
+msgstr ""
+
+#: library/core/admin/post-fields.php:240
+msgid "Header Transparent"
+msgstr ""
+
+#: library/core/admin/post-fields.php:282
+msgid "Header Layout"
+msgstr ""
+
+#: library/core/admin/post-fields.php:363
+msgid "Header Elements"
+msgstr ""
+
+#: library/core/admin/post-fields.php:374
+msgid "Show Top Bar"
+msgstr ""
+
+#: library/core/admin/post-fields.php:381
+msgid "Show Minicart"
+msgstr ""
+
+#: library/core/admin/post-fields.php:388
+msgid "Show Search"
+msgstr ""
+
+#: library/core/admin/post-fields.php:395
+msgid "Show Socials"
+msgstr ""
+
+#: library/core/admin/post-fields.php:402
+msgid "Show Phone"
+msgstr ""
+
+#: library/core/admin/post-fields.php:409
+msgid "Show E-mail"
+msgstr ""
+
+#: library/core/admin/post-fields.php:416
+msgid "Top Bar Email Position"
+msgstr ""
+
+#: library/core/admin/post-fields.php:423
+msgid "Top Bar Menu Position"
+msgstr ""
+
+#: library/core/admin/post-fields.php:430
+msgid "Logo Position"
+msgstr ""
+
+#: library/core/admin/post-fields.php:437
+msgid "Main Menu Position"
+msgstr ""
+
+#: library/core/admin/post-fields.php:444
+msgid "Socials And Phone Position"
+msgstr ""
+
+#: library/core/admin/post-fields.php:451
+msgid "Minicart Position"
+msgstr ""
+
+#: library/core/admin/post-fields.php:563
+msgid "Header Responsive"
+msgstr ""
+
+#: library/core/admin/post-fields.php:581
+msgid "Mobile Top Bar"
+msgstr ""
+
+#: library/core/admin/post-fields.php:675
+#: library/core/admin/post-fields.php:676
+#: library/core/admin/post-fields.php:677
+msgid "Rentax - Page Layout Options"
+msgstr ""
+
+#: library/core/admin/post-fields.php:719
+msgid "Use global settings"
+msgstr ""
+
+#: library/core/admin/post-fields.php:724
+#: library/core/frontend/functions.php:167
+msgid "No Footer"
+msgstr ""
+
+#: library/core/admin/post-fields.php:735
+msgid "Show Title"
+msgstr ""
+
+#: library/core/admin/post-fields.php:738
+msgid "Show"
+msgstr ""
+
+#: library/core/admin/post-fields.php:739
+msgid "Hide"
+msgstr ""
+
+#: library/core/admin/post-fields.php:742
+msgid "Sidebar type"
+msgstr ""
+
+#: library/core/admin/post-fields.php:745
+msgid "Full width"
+msgstr ""
+
+#: library/core/admin/post-fields.php:751
+msgid "Sidebar content"
+msgstr ""
+
+#: library/core/admin/post-fields.php:759
+msgid "WP Default Sidebar"
+msgstr ""
+
+#: library/core/admin/post-fields.php:777
+msgid "Footer Static Block"
+msgstr ""
+
+#: library/core/frontend/index.php:55
+msgid "Primary Navigation"
+msgstr ""
+
+#: library/core/frontend/index.php:56
+msgid "Top Navigation"
+msgstr ""
+
+#: library/core/frontend/index.php:57
+msgid "Footer Navigation"
+msgstr ""
+
+#: library/core/frontend/index.php:58
+msgid "Mobile Navigation"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:14
+msgid "Flaticon"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:17
+msgid "Font Awesome"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:20
+msgid "Elegant"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:23
+msgid "Icomoon"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:26
+msgid "Simple"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:29
+msgid "Custom 1"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:32
+msgid "Custom 2"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:35
+msgid "Custom 3"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:38
+msgid "Custom 4"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:41
+msgid "Custom 5"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:44
+msgid "VC Font Awesome"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:49
+msgid "VC Open Iconic"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:52
+msgid "VC Typicons"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:55
+msgid "VC Entypo"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:58
+msgid "VC Linecons"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:64
+msgid "Icon library"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:68
+msgid "Select icon library."
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:78
+#: library/theme/woo.php:66
+msgid "Icon"
+msgstr ""
+
+#: library/modules/vc_icons_loader/vc_icons_loader.php:90
+msgid "Select icon from library."
+msgstr ""
+
+#: library/plugins.php:20
+msgid "WooCommerce"
+msgstr ""
+
+#: library/plugins.php:32
+msgid "Contact Form 7"
+msgstr ""
+
+#: library/plugins.php:38
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: library/plugins.php:44
+msgid "Simple Page Ordering"
+msgstr ""
+
+#: library/plugins.php:50
+msgid "Category Order and Taxonomy Terms Order"
+msgstr ""
+
+#: library/plugins.php:56
+msgid "Mailchimp"
+msgstr ""
+
+#: library/plugins.php:62
+msgid "WordPress Importer"
+msgstr ""
+
+#: library/plugins.php:68
+msgid "Meta Box"
+msgstr ""
+
+#: library/plugins.php:80
+msgid "Revolution Slider"
+msgstr ""
+
+#: library/plugins.php:90
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: library/plugins.php:100
+msgid "Envato WordPress Toolkit"
+msgstr ""
+
+#: library/plugins.php:110
+msgid "Font Icons Loader"
+msgstr ""
+
+#: library/plugins.php:120
+msgid "One Click Demo Install"
+msgstr ""
+
+#: library/plugins.php:130
+msgid "PixthemeCustom"
+msgstr ""
+
+#: library/plugins.php:140
+msgid "Pix Auto Deal"
+msgstr ""
+
+#: library/plugins.php:175
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/plugins.php:178
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/plugins.php:180
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: library/plugins.php:185
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: library/theme/blog.php:38 library/theme/vc_templates.php:901
+#: library/theme/vc_templates.php:976
+msgid "Name"
+msgstr ""
+
+#: library/theme/blog.php:42
+msgid "Website"
+msgstr ""
+
+#: library/theme/blog.php:46
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: library/theme/blog.php:58
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: library/theme/blog.php:60
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: library/theme/blog.php:62
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: library/theme/blog.php:63
+msgid "Your email address will not be published."
+msgstr ""
+
+#: library/theme/blog.php:69
+msgid "Leave a Reply"
+msgstr ""
+
+#: library/theme/blog.php:70
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: library/theme/blog.php:71
+msgid "Cancel reply"
+msgstr ""
+
+#: library/theme/blog.php:72
+msgid "Post Comment"
+msgstr ""
+
+#: library/theme/blog.php:138 library/theme/blog.php:139
+msgid "NAME"
+msgstr ""
+
+#: library/theme/blog.php:143 library/theme/blog.php:144
+msgid "EMAIL"
+msgstr ""
+
+#: library/theme/blog.php:149 library/theme/blog.php:150
+msgid "COMMENTS"
+msgstr ""
+
+#: library/theme/blog.php:204
+msgid "send comment"
+msgstr ""
+
+#: library/theme/blog.php:240
+msgid "Social Information"
+msgstr ""
+
+#: library/theme/blog.php:245
+msgid "Facebook"
+msgstr ""
+
+#: library/theme/blog.php:249
+msgid "Please enter your account address. (https://www.facebook.com/)"
+msgstr ""
+
+#: library/theme/blog.php:254
+msgid "Twitter"
+msgstr ""
+
+#: library/theme/blog.php:258
+msgid "Please enter your account address. (https://twitter.com/)"
+msgstr ""
+
+#: library/theme/blog.php:263
+msgid "Google+"
+msgstr ""
+
+#: library/theme/blog.php:267
+msgid "Please enter your account address. (https://plus.google.com/)"
+msgstr ""
+
+#: library/theme/blog.php:272
+msgid "Linkedin"
+msgstr ""
+
+#: library/theme/blog.php:276
+msgid "Please enter your account address. (https://www.linkedin.com/)"
+msgstr ""
+
+#: library/theme/comment_walker.php:23
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: library/theme/comment_walker.php:27
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: library/theme/comment_walker.php:31
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: library/theme/comment_walker.php:31
+msgid "(Edit)"
+msgstr ""
+
+#: library/theme/comment_walker.php:42
+msgid "Reply"
+msgstr ""
+
+#: library/theme/filters.php:114
+msgid "Post Format Options"
+msgstr ""
+
+#: library/theme/filters.php:120
+msgid "Post Standared:"
+msgstr ""
+
+#: library/theme/filters.php:127
+msgid "Post Gallery:"
+msgstr ""
+
+#: library/theme/filters.php:133
+msgid "Quote Source:"
+msgstr ""
+
+#: library/theme/filters.php:140
+msgid "Quote Content:"
+msgstr ""
+
+#: library/theme/filters.php:147
+msgid "Video"
+msgstr ""
+
+#: library/theme/functions.php:33
+msgid "Read More"
+msgstr ""
+
+#: library/theme/pagenavi.php:44
+msgid "<i class=\"fa fa-angle-left\"></i>"
+msgstr ""
+
+#: library/theme/pagenavi.php:45
+msgid "<i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+#: library/theme/pagenavi.php:46
+msgid "NEXT"
+msgstr ""
+
+#: library/theme/pagenavi.php:47
+msgid "PREV"
+msgstr ""
+
+#: library/theme/pagenavi.php:48 library/theme/pagenavi.php:49
+#: library/theme/pagenavi.php:187 library/theme/pagenavi.php:188
+msgid "..."
+msgstr ""
+
+#: library/theme/pagenavi.php:99
+msgid "Page %CURRENT_PAGE% of %TOTAL_PAGES%"
+msgstr ""
+
+#: library/theme/pagenavi.php:185 library/theme/vc_templates.php:860
+msgid "1"
+msgstr ""
+
+#: library/theme/pagenavi.php:186
+msgid "<span class=\"icon-chevron-left\"></span>"
+msgstr ""
+
+#: library/theme/styles_scripts.php:14
+msgctxt "Exo font: on or off"
+msgid "on"
+msgstr ""
+
+#: library/theme/vc_templates.php:53
+msgid "CSS Animation"
+msgstr ""
+
+#: library/theme/vc_templates.php:58
+msgid "bounce"
+msgstr ""
+
+#: library/theme/vc_templates.php:59
+msgid "flash"
+msgstr ""
+
+#: library/theme/vc_templates.php:60
+msgid "pulse"
+msgstr ""
+
+#: library/theme/vc_templates.php:61
+msgid "rubberBand"
+msgstr ""
+
+#: library/theme/vc_templates.php:62
+msgid "shake"
+msgstr ""
+
+#: library/theme/vc_templates.php:63
+msgid "swing"
+msgstr ""
+
+#: library/theme/vc_templates.php:64
+msgid "tada"
+msgstr ""
+
+#: library/theme/vc_templates.php:65
+msgid "wobble"
+msgstr ""
+
+#: library/theme/vc_templates.php:66
+msgid "jello"
+msgstr ""
+
+#: library/theme/vc_templates.php:68
+msgid "bounceIn"
+msgstr ""
+
+#: library/theme/vc_templates.php:69
+msgid "bounceInDown"
+msgstr ""
+
+#: library/theme/vc_templates.php:70
+msgid "bounceInLeft"
+msgstr ""
+
+#: library/theme/vc_templates.php:71
+msgid "bounceInRight"
+msgstr ""
+
+#: library/theme/vc_templates.php:72
+msgid "bounceInUp"
+msgstr ""
+
+#: library/theme/vc_templates.php:73
+msgid "bounceOut"
+msgstr ""
+
+#: library/theme/vc_templates.php:74
+msgid "bounceOutDown"
+msgstr ""
+
+#: library/theme/vc_templates.php:75
+msgid "bounceOutLeft"
+msgstr ""
+
+#: library/theme/vc_templates.php:76
+msgid "bounceOutRight"
+msgstr ""
+
+#: library/theme/vc_templates.php:77
+msgid "bounceOutUp"
+msgstr ""
+
+#: library/theme/vc_templates.php:79
+msgid "fadeIn"
+msgstr ""
+
+#: library/theme/vc_templates.php:80
+msgid "fadeInDown"
+msgstr ""
+
+#: library/theme/vc_templates.php:81
+msgid "fadeInDownBig"
+msgstr ""
+
+#: library/theme/vc_templates.php:82
+msgid "fadeInLeft"
+msgstr ""
+
+#: library/theme/vc_templates.php:83
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: library/theme/vc_templates.php:84
+msgid "fadeInRight"
+msgstr ""
+
+#: library/theme/vc_templates.php:85
+msgid "fadeInRightBig"
+msgstr ""
+
+#: library/theme/vc_templates.php:86
+msgid "fadeInUp"
+msgstr ""
+
+#: library/theme/vc_templates.php:87
+msgid "fadeInUpBig"
+msgstr ""
+
+#: library/theme/vc_templates.php:88
+msgid "fadeOut"
+msgstr ""
+
+#: library/theme/vc_templates.php:89
+msgid "fadeOutDown"
+msgstr ""
+
+#: library/theme/vc_templates.php:90
+msgid "fadeOutDownBig"
+msgstr ""
+
+#: library/theme/vc_templates.php:91
+msgid "fadeOutLeft"
+msgstr ""
+
+#: library/theme/vc_templates.php:92
+msgid "fadeOutLeftBig"
+msgstr ""
+
+#: library/theme/vc_templates.php:93
+msgid "fadeOutRight"
+msgstr ""
+
+#: library/theme/vc_templates.php:94
+msgid "fadeOutRightBig"
+msgstr ""
+
+#: library/theme/vc_templates.php:95
+msgid "fadeOutUp"
+msgstr ""
+
+#: library/theme/vc_templates.php:96
+msgid "fadeOutUpBig"
+msgstr ""
+
+#: library/theme/vc_templates.php:98
+msgid "flip"
+msgstr ""
+
+#: library/theme/vc_templates.php:99
+msgid "flipInX"
+msgstr ""
+
+#: library/theme/vc_templates.php:100
+msgid "flipInY"
+msgstr ""
+
+#: library/theme/vc_templates.php:101
+msgid "flipOutX"
+msgstr ""
+
+#: library/theme/vc_templates.php:102
+msgid "flipOutY"
+msgstr ""
+
+#: library/theme/vc_templates.php:104
+msgid "lightSpeedIn"
+msgstr ""
+
+#: library/theme/vc_templates.php:105
+msgid "lightSpeedOut"
+msgstr ""
+
+#: library/theme/vc_templates.php:107
+msgid "rotateIn"
+msgstr ""
+
+#: library/theme/vc_templates.php:108
+msgid "rotateInDownLeft"
+msgstr ""
+
+#: library/theme/vc_templates.php:109
+msgid "rotateInDownRight"
+msgstr ""
+
+#: library/theme/vc_templates.php:110
+msgid "rotateInUpLeft"
+msgstr ""
+
+#: library/theme/vc_templates.php:111
+msgid "rotateInUpRight"
+msgstr ""
+
+#: library/theme/vc_templates.php:112
+msgid "rotateOut"
+msgstr ""
+
+#: library/theme/vc_templates.php:113
+msgid "rotateOutDownLeft"
+msgstr ""
+
+#: library/theme/vc_templates.php:114
+msgid "rotateOutDownRight"
+msgstr ""
+
+#: library/theme/vc_templates.php:115
+msgid "rotateOutUpLeft"
+msgstr ""
+
+#: library/theme/vc_templates.php:116
+msgid "rotateOutUpRight"
+msgstr ""
+
+#: library/theme/vc_templates.php:118
+msgid "slideInUp"
+msgstr ""
+
+#: library/theme/vc_templates.php:119
+msgid "slideInDown"
+msgstr ""
+
+#: library/theme/vc_templates.php:120
+msgid "slideInLeft"
+msgstr ""
+
+#: library/theme/vc_templates.php:121
+msgid "slideInRight"
+msgstr ""
+
+#: library/theme/vc_templates.php:122
+msgid "slideOutUp"
+msgstr ""
+
+#: library/theme/vc_templates.php:123
+msgid "slideOutDown"
+msgstr ""
+
+#: library/theme/vc_templates.php:124
+msgid "slideOutLeft"
+msgstr ""
+
+#: library/theme/vc_templates.php:125
+msgid "slideOutRight"
+msgstr ""
+
+#: library/theme/vc_templates.php:127
+msgid "zoomIn"
+msgstr ""
+
+#: library/theme/vc_templates.php:128
+msgid "zoomInDown"
+msgstr ""
+
+#: library/theme/vc_templates.php:129
+msgid "zoomInLeft"
+msgstr ""
+
+#: library/theme/vc_templates.php:130
+msgid "zoomInRight"
+msgstr ""
+
+#: library/theme/vc_templates.php:131
+msgid "zoomInUp"
+msgstr ""
+
+#: library/theme/vc_templates.php:132
+msgid "zoomOut"
+msgstr ""
+
+#: library/theme/vc_templates.php:133
+msgid "zoomOutDown"
+msgstr ""
+
+#: library/theme/vc_templates.php:134
+msgid "zoomOutLeft"
+msgstr ""
+
+#: library/theme/vc_templates.php:135
+msgid "zoomOutRight"
+msgstr ""
+
+#: library/theme/vc_templates.php:136
+msgid "zoomOutUp"
+msgstr ""
+
+#: library/theme/vc_templates.php:138
+msgid "hinge"
+msgstr ""
+
+#: library/theme/vc_templates.php:139
+msgid "rollIn"
+msgstr ""
+
+#: library/theme/vc_templates.php:140
+msgid "rollOut"
+msgstr ""
+
+#: library/theme/vc_templates.php:143
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: library/theme/vc_templates.php:154
+msgid "Background image "
+msgstr ""
+
+#: library/theme/vc_templates.php:155 library/theme/vc_templates.php:167
+#: library/theme/vc_templates.php:179 library/theme/vc_templates.php:191
+#: library/theme/vc_templates.php:203 library/theme/vc_templates.php:212
+#: library/theme/vc_templates.php:229 library/theme/vc_templates.php:246
+#: library/theme/vc_templates.php:261 library/theme/vc_templates.php:269
+msgid "Theme Options"
+msgstr ""
+
+#: library/theme/vc_templates.php:163
+msgid "Parallax"
+msgstr ""
+
+#: library/theme/vc_templates.php:166
+msgid "Image background style"
+msgstr ""
+
+#: library/theme/vc_templates.php:171
+msgid "Stretch Content"
+msgstr ""
+
+#: library/theme/vc_templates.php:174
+msgid "Select stretching options for content."
+msgstr ""
+
+#: library/theme/vc_templates.php:195
+msgid "Speed"
+msgstr ""
+
+#: library/theme/vc_templates.php:198
+msgid "Provide numbers from -1.0 to 2.0"
+msgstr ""
+
+#: library/theme/vc_templates.php:211 library/theme/vc_templates.php:268
+msgid "Text Color"
+msgstr ""
+
+#: library/theme/vc_templates.php:220
+msgid "Padding"
+msgstr ""
+
+#: library/theme/vc_templates.php:223
+msgid "No Padding"
+msgstr ""
+
+#: library/theme/vc_templates.php:224 library/theme/vc_templates.php:240
+msgid "Both"
+msgstr ""
+
+#: library/theme/vc_templates.php:225 library/theme/vc_templates.php:241
+msgid "Top"
+msgstr ""
+
+#: library/theme/vc_templates.php:226 library/theme/vc_templates.php:242
+msgid "Bottom"
+msgstr ""
+
+#: library/theme/vc_templates.php:228
+msgid "Top, bottom, both"
+msgstr ""
+
+#: library/theme/vc_templates.php:243
+msgid "Bottom V Decor"
+msgstr ""
+
+#: library/theme/vc_templates.php:245
+msgid "Show decor for section."
+msgstr ""
+
+#: library/theme/vc_templates.php:254
+msgid "Color"
+msgstr ""
+
+#: library/theme/vc_templates.php:260
+msgid "Decor color. Default Black."
+msgstr ""
+
+#: library/theme/vc_templates.php:281 library/theme/vc_templates.php:290
+#: library/theme/vc_templates.php:355 library/theme/vc_templates.php:407
+#: library/theme/vc_templates.php:578 library/theme/vc_templates.php:688
+#: library/theme/vc_templates.php:889 library/theme/vc_templates.php:1145
+#: library/theme/vc_templates.php:1482
+msgid "Title"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+#: library/theme/vc_templates.php:284 library/theme/vc_templates.php:343
+#: library/theme/vc_templates.php:401 library/theme/vc_templates.php:558
+#: library/theme/vc_templates.php:639 library/theme/vc_templates.php:684
+#: library/theme/vc_templates.php:745 library/theme/vc_templates.php:780
+#: library/theme/vc_templates.php:850 library/theme/vc_templates.php:943
+#: library/theme/vc_templates.php:1071 library/theme/vc_templates.php:1137
+#: library/theme/vc_templates.php:1192 library/theme/vc_templates.php:1251
+#: library/theme/vc_templates.php:1329 library/theme/vc_templates.php:1445
+msgid "Rentax"
+msgstr ""
+
+#: library/theme/vc_templates.php:292
+msgid "I am Title"
+msgstr ""
+
+#: library/theme/vc_templates.php:293
+msgid "Title param."
+msgstr ""
+
+#: library/theme/vc_templates.php:298
+msgid "Title Position"
+msgstr ""
+
+#: library/theme/vc_templates.php:301 library/theme/vc_templates.php:1496
+msgid "Center"
+msgstr ""
+
+#: library/theme/vc_templates.php:305
+msgid "Center, left or right"
+msgstr ""
+
+#: library/theme/vc_templates.php:309
+msgid "Title Color"
+msgstr ""
+
+#: library/theme/vc_templates.php:319 library/theme/vc_templates.php:534
+#: library/theme/vc_templates.php:1523
+msgid "Content"
+msgstr ""
+
+#: library/theme/vc_templates.php:321 library/theme/vc_templates.php:917
+#: library/theme/vc_templates.php:1047 library/theme/vc_templates.php:1525
+msgid "<p>I am test text block. Click edit button to change this text.</p>"
+msgstr ""
+
+#: library/theme/vc_templates.php:322 library/theme/vc_templates.php:1526
+msgid "Enter your content."
+msgstr ""
+
+#: library/theme/vc_templates.php:337
+msgid "Amount Section"
+msgstr ""
+
+#: library/theme/vc_templates.php:357
+msgid "Project"
+msgstr ""
+
+#: library/theme/vc_templates.php:358
+msgid "Title."
+msgstr ""
+
+#: library/theme/vc_templates.php:364
+msgid "Amount"
+msgstr ""
+
+#: library/theme/vc_templates.php:366
+msgid "999"
+msgstr ""
+
+#: library/theme/vc_templates.php:367
+msgid "Amount."
+msgstr ""
+
+#: library/theme/vc_templates.php:377
+msgid "Amount Box"
+msgstr ""
+
+#: library/theme/vc_templates.php:398
+msgid "Welcome Banner"
+msgstr ""
+
+#: library/theme/vc_templates.php:409
+msgid "AUTOZONE"
+msgstr ""
+
+#: library/theme/vc_templates.php:410
+msgid "Button Title"
+msgstr ""
+
+#: library/theme/vc_templates.php:416
+msgid "Advanced Title"
+msgstr ""
+
+#: library/theme/vc_templates.php:418
+msgid "WELCOME TO"
+msgstr ""
+
+#: library/theme/vc_templates.php:419
+msgid "Text before main title"
+msgstr ""
+
+#: library/theme/vc_templates.php:424
+msgid "Use Decor"
+msgstr ""
+
+#: library/theme/vc_templates.php:427
+msgid "Marked if checked."
+msgstr ""
+
+#: library/theme/vc_templates.php:431
+msgid "Image 1"
+msgstr ""
+
+#: library/theme/vc_templates.php:434 library/theme/vc_templates.php:459
+#: library/theme/vc_templates.php:484 library/theme/vc_templates.php:509
+#: library/theme/vc_templates.php:752 library/theme/vc_templates.php:787
+#: library/theme/vc_templates.php:1105
+msgid "Select image from media library."
+msgstr ""
+
+#: library/theme/vc_templates.php:440
+msgid "Image Text 1"
+msgstr ""
+
+#: library/theme/vc_templates.php:443
+msgid "Text on image"
+msgstr ""
+
+#: library/theme/vc_templates.php:449
+msgid "Link 1"
+msgstr ""
+
+#: library/theme/vc_templates.php:451 library/theme/vc_templates.php:476
+#: library/theme/vc_templates.php:501 library/theme/vc_templates.php:526
+#: library/theme/vc_templates.php:1506
+msgid "https:/rentax.com"
+msgstr ""
+
+#: library/theme/vc_templates.php:452 library/theme/vc_templates.php:477
+#: library/theme/vc_templates.php:502 library/theme/vc_templates.php:527
+#: library/theme/vc_templates.php:1507
+msgid "Button link"
+msgstr ""
+
+#: library/theme/vc_templates.php:456
+msgid "Image 2"
+msgstr ""
+
+#: library/theme/vc_templates.php:465
+msgid "Image Text 2"
+msgstr ""
+
+#: library/theme/vc_templates.php:468 library/theme/vc_templates.php:493
+#: library/theme/vc_templates.php:518
+msgid "Button description"
+msgstr ""
+
+#: library/theme/vc_templates.php:474
+msgid "Link 2"
+msgstr ""
+
+#: library/theme/vc_templates.php:481
+msgid "Image 3"
+msgstr ""
+
+#: library/theme/vc_templates.php:490
+msgid "Image Text 3"
+msgstr ""
+
+#: library/theme/vc_templates.php:499
+msgid "Link 3"
+msgstr ""
+
+#: library/theme/vc_templates.php:506
+msgid "Image 4"
+msgstr ""
+
+#: library/theme/vc_templates.php:515
+msgid "Image Text 4"
+msgstr ""
+
+#: library/theme/vc_templates.php:524
+msgid "Link 4"
+msgstr ""
+
+#: library/theme/vc_templates.php:536
+msgid "THE ONLINE AUTOS WORLD"
+msgstr ""
+
+#: library/theme/vc_templates.php:537
+msgid "Banner Text"
+msgstr ""
+
+#: library/theme/vc_templates.php:552
+msgid "Services"
+msgstr ""
+
+#: library/theme/vc_templates.php:562 library/theme/vc_templates.php:866
+#: library/theme/vc_templates.php:947 library/theme/vc_templates.php:1081
+#: library/theme/vc_templates.php:1209 library/theme/vc_templates.php:1268
+#: library/theme/vc_templates.php:1366
+msgid "Carousel"
+msgstr ""
+
+#: library/theme/vc_templates.php:565 library/theme/vc_templates.php:869
+#: library/theme/vc_templates.php:951 library/theme/vc_templates.php:1084
+#: library/theme/vc_templates.php:1212 library/theme/vc_templates.php:1271
+#: library/theme/vc_templates.php:1369
+msgid "Enable"
+msgstr ""
+
+#: library/theme/vc_templates.php:568 library/theme/vc_templates.php:872
+#: library/theme/vc_templates.php:953 library/theme/vc_templates.php:1087
+#: library/theme/vc_templates.php:1372
+msgid "On/off carousel"
+msgstr ""
+
+#: library/theme/vc_templates.php:580
+msgid "Title info."
+msgstr ""
+
+#: library/theme/vc_templates.php:584
+msgid "Strong Title"
+msgstr ""
+
+#: library/theme/vc_templates.php:586
+msgid "Strong part of title text."
+msgstr ""
+
+#: library/theme/vc_templates.php:592 library/theme/vc_templates.php:1154
+#: library/theme/vc_templates.php:1504
+msgid "Link"
+msgstr ""
+
+#: library/theme/vc_templates.php:594
+msgid "Service page link."
+msgstr ""
+
+#: library/theme/vc_templates.php:601 library/theme/vc_templates.php:1045
+msgid "Info"
+msgstr ""
+
+#: library/theme/vc_templates.php:603
+msgid "I am test text block. Click edit button to change this text."
+msgstr ""
+
+#: library/theme/vc_templates.php:604 library/theme/vc_templates.php:1048
+msgid "Enter information."
+msgstr ""
+
+#: library/theme/vc_templates.php:614
+msgid "Service Box"
+msgstr ""
+
+#: library/theme/vc_templates.php:636
+msgid "Images Carousel"
+msgstr ""
+
+#: library/theme/vc_templates.php:643
+msgid "Images"
+msgstr ""
+
+#: library/theme/vc_templates.php:646
+msgid "Select images from media library."
+msgstr ""
+
+#: library/theme/vc_templates.php:650
+msgid "Image size"
+msgstr ""
+
+#: library/theme/vc_templates.php:653
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size. If used slides per "
+"view, this will be used to define carousel wrapper size."
+msgstr ""
+
+#: library/theme/vc_templates.php:657
+msgid "Auto Play"
+msgstr ""
+
+#: library/theme/vc_templates.php:660
+msgid "Enter autoplay speed in milliseconds. 0 is turn off autoplay."
+msgstr ""
+
+#: library/theme/vc_templates.php:681
+msgid "News Block"
+msgstr ""
+
+#: library/theme/vc_templates.php:690
+msgid "Latest News"
+msgstr ""
+
+#: library/theme/vc_templates.php:695 library/theme/vc_templates.php:1513
+msgid "Button Text"
+msgstr ""
+
+#: library/theme/vc_templates.php:697
+msgid "READ BLOG"
+msgstr ""
+
+#: library/theme/vc_templates.php:698
+msgid "Leave empty to hide bytton."
+msgstr ""
+
+#: library/theme/vc_templates.php:702
+msgid "Link For All News"
+msgstr ""
+
+#: library/theme/vc_templates.php:709
+msgid "Color scheme"
+msgstr ""
+
+#: library/theme/vc_templates.php:712
+msgid "Light"
+msgstr ""
+
+#: library/theme/vc_templates.php:713
+msgid "Dark"
+msgstr ""
+
+#: library/theme/vc_templates.php:721
+msgid "Title Content"
+msgstr ""
+
+#: library/theme/vc_templates.php:723
+msgid "READ our latest blog news"
+msgstr ""
+
+#: library/theme/vc_templates.php:724
+msgid "Enter your title content."
+msgstr ""
+
+#: library/theme/vc_templates.php:742
+msgid "3D Viewer"
+msgstr ""
+
+#: library/theme/vc_templates.php:749 library/theme/vc_templates.php:895
+#: library/theme/vc_templates.php:970 library/theme/vc_templates.php:1102
+msgid "Image"
+msgstr ""
+
+#: library/theme/vc_templates.php:758
+msgid "Number of frames"
+msgstr ""
+
+#: library/theme/vc_templates.php:761
+msgid "Default 16"
+msgstr ""
+
+#: library/theme/vc_templates.php:777
+msgid "Google Map"
+msgstr ""
+
+#: library/theme/vc_templates.php:784
+msgid "Marker Image"
+msgstr ""
+
+#: library/theme/vc_templates.php:792
+msgid "Address"
+msgstr ""
+
+#: library/theme/vc_templates.php:795
+msgid "Example: San Diego, CA"
+msgstr ""
+
+#: library/theme/vc_templates.php:800
+msgid "Map Width"
+msgstr ""
+
+#: library/theme/vc_templates.php:803
+msgid "Default 90%"
+msgstr ""
+
+#: library/theme/vc_templates.php:808
+msgid "Map Height"
+msgstr ""
+
+#: library/theme/vc_templates.php:811
+msgid "Default 500px"
+msgstr ""
+
+#: library/theme/vc_templates.php:816
+msgid "Zoom"
+msgstr ""
+
+#: library/theme/vc_templates.php:819
+msgid "Zoom 0-20. Default 8."
+msgstr ""
+
+#: library/theme/vc_templates.php:823
+msgid "Scroll Wheel"
+msgstr ""
+
+#: library/theme/vc_templates.php:829
+msgid "Zoom map with scroll"
+msgstr ""
+
+#: library/theme/vc_templates.php:844
+msgid "Reviews"
+msgstr ""
+
+#: library/theme/vc_templates.php:855
+msgid "Reviews per page"
+msgstr ""
+
+#: library/theme/vc_templates.php:858
+msgid "3"
+msgstr ""
+
+#: library/theme/vc_templates.php:859
+msgid "2"
+msgstr ""
+
+#: library/theme/vc_templates.php:862
+msgid "Select number of columns."
+msgstr ""
+
+#: library/theme/vc_templates.php:881
+msgid "Review"
+msgstr ""
+
+#: library/theme/vc_templates.php:891
+msgid "Review title."
+msgstr ""
+
+#: library/theme/vc_templates.php:897 library/theme/vc_templates.php:972
+msgid "Select image."
+msgstr ""
+
+#: library/theme/vc_templates.php:903
+msgid "Person name."
+msgstr ""
+
+#: library/theme/vc_templates.php:907 library/theme/vc_templates.php:982
+msgid "Position"
+msgstr ""
+
+#: library/theme/vc_templates.php:909
+msgid "Text under the name."
+msgstr ""
+
+#: library/theme/vc_templates.php:915
+msgid "Review Text"
+msgstr ""
+
+#: library/theme/vc_templates.php:918
+msgid "Enter text."
+msgstr ""
+
+#: library/theme/vc_templates.php:937
+msgid "Team slider"
+msgstr ""
+
+#: library/theme/vc_templates.php:962
+msgid "Team Member"
+msgstr ""
+
+#: library/theme/vc_templates.php:978
+msgid "Team member name."
+msgstr ""
+
+#: library/theme/vc_templates.php:984
+msgid "Member position."
+msgstr ""
+
+#: library/theme/vc_templates.php:988
+msgid "Skill Level"
+msgstr ""
+
+#: library/theme/vc_templates.php:990
+msgid "From 0 to 100%"
+msgstr ""
+
+#: library/theme/vc_templates.php:994
+msgid "Social Link 1"
+msgstr ""
+
+#: library/theme/vc_templates.php:996
+msgid "https://www.facebook.com/"
+msgstr ""
+
+#: library/theme/vc_templates.php:1000
+msgid "Social Network Icon 1"
+msgstr ""
+
+#: library/theme/vc_templates.php:1002
+msgid ""
+"Add icon social_facebook_circle <a href=\"//fortawesome.github.io/Font-"
+"Awesome/icons/\" target=\"_blank\">See all icons</a>"
+msgstr ""
+
+#: library/theme/vc_templates.php:1006
+msgid "Social Link 2"
+msgstr ""
+
+#: library/theme/vc_templates.php:1008
+msgid "https://twitter.com/"
+msgstr ""
+
+#: library/theme/vc_templates.php:1012
+msgid "Social Network Icon 2"
+msgstr ""
+
+#: library/theme/vc_templates.php:1014
+msgid ""
+"Add icon social_twitter_circle <a href=\"//fortawesome.github.io/Font-"
+"Awesome/icons/\" target=\"_blank\">See all icons</a>"
+msgstr ""
+
+#: library/theme/vc_templates.php:1018
+msgid "Social Link 3"
+msgstr ""
+
+#: library/theme/vc_templates.php:1020
+msgid "https://www.pinterest.com/"
+msgstr ""
+
+#: library/theme/vc_templates.php:1024
+msgid "Social Network Icon 3"
+msgstr ""
+
+#: library/theme/vc_templates.php:1026
+msgid ""
+"Add icon social_pinterest_circle <a href=\"//fortawesome.github.io/Font-"
+"Awesome/icons/\" target=\"_blank\">See all icons</a>"
+msgstr ""
+
+#: library/theme/vc_templates.php:1030
+msgid "Social Link 4"
+msgstr ""
+
+#: library/theme/vc_templates.php:1032
+msgid "https://plus.google.com/"
+msgstr ""
+
+#: library/theme/vc_templates.php:1036
+msgid "Social Network Icon 4"
+msgstr ""
+
+#: library/theme/vc_templates.php:1038
+msgid ""
+"Add icon social_googleplus_circle <a href=\"//fortawesome.github.io/Font-"
+"Awesome/icons/\" target=\"_blank\">See all icons</a>"
+msgstr ""
+
+#: library/theme/vc_templates.php:1065
+msgid "Brands Section"
+msgstr ""
+
+#: library/theme/vc_templates.php:1075
+msgid "Brands per page"
+msgstr ""
+
+#: library/theme/vc_templates.php:1077
+msgid "Select number of columns. Default 5."
+msgstr ""
+
+#: library/theme/vc_templates.php:1094
+msgid "Brand"
+msgstr ""
+
+#: library/theme/vc_templates.php:1111
+msgid "url"
+msgstr ""
+
+#: library/theme/vc_templates.php:1113
+msgid "https://wordpress.com"
+msgstr ""
+
+#: library/theme/vc_templates.php:1131
+msgid "Social Buttons"
+msgstr ""
+
+#: library/theme/vc_templates.php:1147
+msgid "Social title."
+msgstr ""
+
+#: library/theme/vc_templates.php:1156
+msgid "Social link."
+msgstr ""
+
+#: library/theme/vc_templates.php:1165
+msgid "Social Button"
+msgstr ""
+
+#: library/theme/vc_templates.php:1189
+msgid "Woocommerce Products"
+msgstr ""
+
+#: library/theme/vc_templates.php:1196 library/theme/vc_templates.php:1255
+msgid "Categories"
+msgstr ""
+
+#: library/theme/vc_templates.php:1199 library/theme/vc_templates.php:1258
+msgid "Select categories to show"
+msgstr ""
+
+#: library/theme/vc_templates.php:1203 library/theme/vc_templates.php:1262
+#: library/theme/vc_templates.php:1344
+msgid "Items Count"
+msgstr ""
+
+#: library/theme/vc_templates.php:1205 library/theme/vc_templates.php:1264
+msgid "Select number products."
+msgstr ""
+
+#: library/theme/vc_templates.php:1219 library/theme/vc_templates.php:1278
+msgid "Slider Controls"
+msgstr ""
+
+#: library/theme/vc_templates.php:1223 library/theme/vc_templates.php:1282
+msgid "Controls Right"
+msgstr ""
+
+#: library/theme/vc_templates.php:1224 library/theme/vc_templates.php:1283
+msgid "Controls Left"
+msgstr ""
+
+#: library/theme/vc_templates.php:1226 library/theme/vc_templates.php:1285
+msgid "Select controls position."
+msgstr ""
+
+#: library/theme/vc_templates.php:1230 library/theme/vc_templates.php:1289
+msgid "Min slides"
+msgstr ""
+
+#: library/theme/vc_templates.php:1232 library/theme/vc_templates.php:1291
+msgid "Min slides on page. Default 4."
+msgstr ""
+
+#: library/theme/vc_templates.php:1248
+msgid "Woocommerce Category"
+msgstr ""
+
+#: library/theme/vc_templates.php:1323
+msgid "Latest Autos"
+msgstr ""
+
+#: library/theme/vc_templates.php:1334
+msgid "Slide Type"
+msgstr ""
+
+#: library/theme/vc_templates.php:1337
+msgid "Items by ID"
+msgstr ""
+
+#: library/theme/vc_templates.php:1338
+msgid "Items by Date"
+msgstr ""
+
+#: library/theme/vc_templates.php:1340
+msgid "Select items by IDs or latest by date"
+msgstr ""
+
+#: library/theme/vc_templates.php:1351
+msgid "Select items number to show"
+msgstr ""
+
+#: library/theme/vc_templates.php:1355
+msgid "Auto Models"
+msgstr ""
+
+#: library/theme/vc_templates.php:1358
+msgid "Select auto models to show"
+msgstr ""
+
+#: library/theme/vc_templates.php:1378
+msgid "Autos Slide"
+msgstr ""
+
+#: library/theme/vc_templates.php:1386
+msgid "Main Item ID"
+msgstr ""
+
+#: library/theme/vc_templates.php:1388
+msgid "Item with large image. Input item ID"
+msgstr ""
+
+#: library/theme/vc_templates.php:1392
+msgid "Second Item ID"
+msgstr ""
+
+#: library/theme/vc_templates.php:1394 library/theme/vc_templates.php:1400
+#: library/theme/vc_templates.php:1406 library/theme/vc_templates.php:1412
+msgid "Input item ID"
+msgstr ""
+
+#: library/theme/vc_templates.php:1398
+msgid "Third Item ID"
+msgstr ""
+
+#: library/theme/vc_templates.php:1404
+msgid "Fourth Item ID"
+msgstr ""
+
+#: library/theme/vc_templates.php:1410
+msgid "Fifth Item ID"
+msgstr ""
+
+#: library/theme/vc_templates.php:1442
+msgid "Auto Body Types"
+msgstr ""
+
+#: library/theme/vc_templates.php:1449
+msgid "Body Types"
+msgstr ""
+
+#: library/theme/vc_templates.php:1452
+msgid "Select body types to show"
+msgstr ""
+
+#: library/theme/vc_templates.php:1456
+msgid "Offer Text"
+msgstr ""
+
+#: library/theme/vc_templates.php:1458 vc_templates/section_autos_cat.php:48
+msgid "Offers"
+msgstr ""
+
+#: library/theme/vc_templates.php:1459
+msgid "Offers number text"
+msgstr ""
+
+#: library/theme/vc_templates.php:1484
+msgid "I am title"
+msgstr ""
+
+#: library/theme/vc_templates.php:1485
+msgid "Add Title "
+msgstr ""
+
+#: library/theme/vc_templates.php:1491
+msgid "Icon Position"
+msgstr ""
+
+#: library/theme/woo.php:42
+msgid "Icon Class"
+msgstr ""
+
+#: library/theme/woo.php:44 library/theme/woo.php:70
+msgid "Icon class for category (auto15)"
+msgstr ""
+
+#: loop.php:11
+msgid "Not Found"
+msgstr ""
+
+#: loop.php:13
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:34
+msgid "Specifications"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:40
+msgid "Make:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:46
+msgid "Model:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:53
+msgid "Made Year:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:67
+msgid "VIN:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:74
+msgid "Version:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:88
+msgid "Engine (cm3):"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:95
+msgid "Horsepower (hp):"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:102
+msgid "Transmission:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:109
+msgid "Doors:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:130
+msgid "Seats:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:137
+msgid "Color:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:144
+msgid "Price:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:151
+msgid "Price Type:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:158
+msgid "Warranty:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:197
+msgid "Video is not supporting by your browser"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:198
+msgid "Download Video"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:252
+msgid "Price/month:"
+msgstr ""
+
+#: single-pixad-autos-sidebar.php:253
+msgid "Cullam semper aibe vestibulum"
+msgstr ""
+
+#: single-pixad-autos.php:33
+msgid " / month"
+msgstr ""
+
+#: single-pixad-autos.php:108
+msgid "Features"
+msgstr ""
+
+#: single-pixad-autos.php:109
+msgid "Vehicle Description"
+msgstr ""
+
+#: single-pixad-autos.php:110
+msgid "Contact"
+msgstr ""
+
+#: single-pixad-autos.php:119
+msgid "Car Equipment"
+msgstr ""
+
+#: single-pixad-autos.php:145 single-pixad-autos.php:159
+msgid "First Name:"
+msgstr ""
+
+#: single-pixad-autos.php:152
+msgid "Last Name:"
+msgstr ""
+
+#: single-pixad-autos.php:166
+msgid "Phone:"
+msgstr ""
+
+#: single-pixad-autos.php:173
+msgid "Email:"
+msgstr ""
+
+#: single-pixad-autos.php:180
+msgid "Country:"
+msgstr ""
+
+#: single-pixad-autos.php:187
+msgid "State:"
+msgstr ""
+
+#: single-pixad-autos.php:194
+msgid "Town:"
+msgstr ""
+
+#: single-pixad-autos.php:374
+msgid "send details"
+msgstr ""
+
+#: taxonomy-auto-body.php:177 taxonomy-auto-model.php:177
+msgid "Location:"
+msgstr ""
+
+#: taxonomy-auto-model.php:239
+msgid "PRICE:"
+msgstr ""
+
+#: templates/header/header_menu/full-screen.php:15
+msgid ""
+"Additional menu has not been selected. Do this in the Customize &rarr; "
+"Header &rarr; Additional Menu."
+msgstr ""
+
+#: templates/header/header_menu/search.php:12
+msgid "Type to search"
+msgstr ""
+
+#: templates/header/header_menu/search.php:14
+msgid "Begin typing your search above and press return to search."
+msgstr ""
+
+#: templates/header/header_menu/slide.php:24
+msgid ""
+"Additional menu has not been selected. Do this in the Theme Options &rarr; "
+"Header &rarr; Additional Menu."
+msgstr ""
+
+#: templates/header/header_title.php:22
+msgid "Rentax Posts"
+msgstr ""
+
+#: templates/header/types/header3.php:76
+msgid "Your Cart:"
+msgstr ""
+
+#: templates/header/types/header3.php:85
+msgid "Search..."
+msgstr ""
+
+#: templates/post-parts/blog-template/blog-template.php:23
+#: templates/post-single/content.php:21 vc_templates/block_posts.php:82
+msgid "By:: "
+msgstr ""
+
+#: templates/post-parts/blog-template/blog-template.php:26
+#: templates/post-single/content.php:36
+msgid "COMMENTS:: "
+msgstr ""
+
+#: templates/post-parts/post-format/blog-gallery.php:53
+#: templates/post-parts/post-format/blog-standared.php:18
+#: templates/post-parts/post-format/blog-video.php:43
+#: vc_templates/section_autos.php:75
+msgid "FEATURED"
+msgstr ""
+
+#: templates/post-single/content.php:25
+msgid "In:: "
+msgstr ""
+
+#: templates/post-single/content.php:52
+msgid "Tags"
+msgstr ""
+
+#: templates/post-single/content.php:84
+msgid "author"
+msgstr ""
+
+#: templates/post-single/content.php:112
+msgid "PREVIOUS POST"
+msgstr ""
+
+#: templates/post-single/content.php:119
+msgid "NEXT POST"
+msgstr ""
+
+#: vc_templates/block_posts.php:84
+msgid "COMMENTS :: "
+msgstr ""
+
+#: vc_templates/box_portfolio.php:12
+msgid ""
+"No portfolio card selected. To fix this, please login to your WP Admin area "
+"and set the portfolio card you want to show by editing this shortcode and "
+"setting one portfolio card in the dropdown \"Portfolio Card\"."
+msgstr ""
+
+#: vc_templates/section_3d.php:34
+msgid "Handle"
+msgstr ""
+
+#: vc_templates/section_autos_cat.php:19
+msgid ""
+"No Body Types selected. To fix this, please login to your WP Admin area and "
+"set the body types you want to show by editing this shortcode and setting "
+"one or more body types in the multi checkbox field \"Body Types\"."
+msgstr ""
+
+#: vc_templates/section_portfolio.php:17
+#: vc_templates/section_woocommerce.php:22
+msgid ""
+"No categories selected. To fix this, please login to your WP Admin area and "
+"set the categories you want to show by editing this shortcode and setting "
+"one or more categories in the multi checkbox field \"Categories\"."
+msgstr ""
+
+#: vc_templates/section_portfolio.php:36
+msgid "All"
+msgstr ""
+
+#: vc_templates/section_team_member.php:68
+msgid "SKILL LEVEL"
+msgstr ""
+
+#: woocommerce/single-product/related.php:50
+msgid "Related Products"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://prestazilla.org/wordpress/rentax/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Auto Dealer template with E-commerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Pix-Theme"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "pix-theme.com"
+msgstr ""

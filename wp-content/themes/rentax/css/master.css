@@ -1,0 +1,37 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	Rentax
+Version:	1.0
+Assigned to:	WebNik
+Primary use:	Rentax
+-------------------------------------------------------------------*/
+
+/* FONTS*/
+@import url(https://fonts.googleapis.com/css?family=Exo:300,400,500,600,700,800|Ubuntu:300,400,500,700|Droid+Serif:400italic);
+/*@import url('../fonts/font-awesome/css/font-awesome.min.css');
+@import url('../fonts/flaticon/flaticon.css');
+@import url('../fonts/simple/simple.css');
+@import url('../fonts/autoicon/css/fontello.css');*/
+
+/* PLUGIN CSS */
+@import url('../assets/bootstrap/css/bootstrap.css');
+@import url('../assets/isotope/isotope.css');
+@import url('../assets/owl-carousel/owl.carousel.css');
+@import url('../assets/owl-carousel/owl.transitions.css');
+@import url('../assets/owl-carousel/owl.theme.css');
+@import url('../assets/prettyphoto/css/prettyPhoto.css');
+@import url('../assets/jelect/main.css');
+@import url('../assets/flexslider/flexslider.css');
+
+
+
+/* MAIN CSS */
+@import url('theme.css');
+@import url('sections.css');
+@import url('blog.css');
+@import url('sidebar.css');
+@import url('responsive.css');
+@import url('color.css');
+
+

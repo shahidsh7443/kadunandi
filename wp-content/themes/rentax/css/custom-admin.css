@@ -1,0 +1,85 @@
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+/* CUSTOM ADMIN CSS (ADD YOUR CSS HERE!) */
+/*//////////////////////////////////////////////////////////////////////////////////////////*/
+
+
+.rwmb-upload-inside p {
+	display: none;
+}
+
+
+#page_options .rwmb-images li, #page_options .rwmb-images img{
+	height:auto;
+}
+
+
+.vc_license-activation-notice , .rs-update-notice-wrap {
+    display: none !Important;
+}
+
+#cpt_info_box , #vc_license-activation-notice{
+    display: none !important;
+}
+
+
+pix-theme-icon_nav  .vc_element-icon{
+    background-image: url(../../../../../plugins/pixtheme-custom/images/vc_logo.png) !important;
+    left: 14px !important;
+}
+
+.vc_add-element-container .wpb-content-layouts {
+    padding: 0 0 120px 0;
+    margin: 0;
+    display: inline-block;
+}
+
+.vc_preview_info{
+    position: absolute;
+    font-size: 18px;
+    right: 5px;
+    top: 5px;
+    color: #ccc;
+     transition: all .55s linear;
+}
+
+.vc_preview_info:hover {
+    color: #000 !important;
+}
+
+.vc_preview_obv{
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    left: 100%;
+    min-width: 170px;
+    visibility: hidden;
+    opacity: 0; 
+    transition: opacity .55s linear;
+    border: 5px solid #ccc;
+    background: #fff;
+    border-radius: 100px;
+    line-height: 100px;
+    overflow: hidden;
+    width: 170px;
+    height: 170px;
+    
+}
+
+.vc_preview_obv img{
+    width: 100%;
+    height: auto;
+
+}
+
+.vc_preview_info:hover +  .vc_preview_obv{
+    visibility: visible;
+       opacity:1;
+}
+
+
+
+.vc_add-element-container .wpb-content-layouts li{
+    overflow: inherit !important;
+        min-width: 320px;
+}
+

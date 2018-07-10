@@ -1,0 +1,29 @@
+
+version 1.1.0  (26.02.2018) by Alexey
+
+Plugins updated
+WooCommerce 3.0+ ready
+
+	templates/header/types/*
+	woocommerce/*
+	library/demo-files/*
+	library/plugins/*
+	library/revslider/*
+	vc_templates/section_autos_cat.php
+	style.css
+
+
+
+version 1.0.1  (10.01.2017) by Alexey
+
+Social custom icon bug fixed
+
+	templates/header/types/header1.php
+	templates/header/types/header2.php 
+
+
+
+version 1.0.0  (11.11.2016)
+
+Release
+	
