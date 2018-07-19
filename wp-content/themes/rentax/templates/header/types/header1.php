@@ -25,7 +25,7 @@
 																<img class="normal-logo" src="http://localhost/kadunandi/wp-content/uploads/2018/07/Untitled-1-1.png" alt="logo">
 																							<img class="scroll-logo hidden-xs" src="http://localhost/kadunandi/wp-content/uploads/2018/07/Untitled-1-1.png" alt="logo">
 														</a>
-	    <div class="tline">Kadu Nandi Travels Pvt Ltd</div>
+	    <div class="tline"><span class="sml">Kadu</span> Nandi Travels Pvt Ltd</div>
 						</div>
 					<div class="header-navibox-3">
 

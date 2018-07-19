@@ -677,38 +677,38 @@ color: #ffffff !important;
 }
 .owl-wrapper .owl-item:nth-child(1) .list-services
 {
-  background: url('http://localhost/kadunandi/wp-content/uploads/2018/06/image-driver2-2-1.jpg');
+  background: url('http://projects.razorbee.com/kadunandi/wp-content/uploads/2018/06/image-driver2-2-1.jpg');
   background-size: cover;
   box-shadow: inset 0 0 0 500px rgba(0,0,0,0.3);
 }
 .owl-wrapper .owl-item:nth-child(2) .list-services
 {
-  background: url('http://localhost/kadunandi/wp-content/uploads/2018/06/Slide-1-1.jpg');
+  background: url('http://projects.razorbee.com/kadunandi/wp-content/uploads/2018/06/Slide-1-1.jpg');
   background-size: cover;
   box-shadow: inset 0 0 0 500px rgba(0,0,0,0.3);
   background-position: 50%;
 }
 .owl-wrapper .owl-item:nth-child(3) .list-services
 {
-  background: url('http://localhost/kadunandi/wp-content/uploads/2018/06/cd-1.jpg');
+  background: url('http://projects.razorbee.com/kadunandi/wp-content/uploads/2018/06/cd-1.jpg');
   background-size: cover;
   box-shadow: inset 0 0 0 500px rgba(0,0,0,0.3);
 }
 .owl-wrapper .owl-item:nth-child(4) .list-services
 {
-  background: url('http://localhost/kadunandi/wp-content/uploads/2018/06/e-1.jpg');
+  background: url('http://projects.razorbee.com/kadunandi/wp-content/uploads/2018/06/e-1.jpg');
   background-size: cover;
   box-shadow: inset 0 0 0 500px rgba(0,0,0,0.3);
 }
 .owl-wrapper .owl-item:nth-child(5) .list-services
 {
-  background: url('http://localhost/kadunandi/wp-content/uploads/2018/06/rental-2-1.jpg');
+  background: url('http://projects.razorbee.com/kadunandi/wp-content/uploads/2018/06/rental-2-1.jpg');
   background-size: cover;
   box-shadow: inset 0 0 0 500px rgba(0,0,0,0.3);
 }
 .owl-wrapper .owl-item:nth-child(6) .list-services
 {
-  background: url('http://localhost/kadunandi/wp-content/uploads/2018/07/Tempo-Traveller-1-1.jpg');
+  background: url('http://projects.razorbee.com/kadunandi/wp-content/uploads/2018/07/Tempo-Traveller-1-1.jpg');
   background-size: cover;
   box-shadow: inset 0 0 0 500px rgba(0,0,0,0.3);
 }
@@ -718,6 +718,7 @@ color: #ffffff !important;
 }
 .owl-item i.icon {
     color: #7cfc00;
+display:none;
 }
 /*h2,h3,h4
 {
@@ -804,12 +805,15 @@ width: 250px;
 #testimonials .reviews:hover .reviews__text{
 color: #ffffff;
 }
+#testimonials .reviews:hover p{
+color: #ffffff;
+}
 #mvv .vc_icon_element.vc_icon_element-outer.vc_icon_element-align-left {
     text-align: center;
 }
 #serv .owl-wrapper-outer
 {
-  height: 278px !important;
+  height: 218px !important;
 }
 #mission, #vision, #value
 {
@@ -840,7 +844,7 @@ color: #ffffff;
 }
 .vc_row-overlay
 {
-    background-color: rgba(0,0,0,0.5) !important;
+    background-color: rgba(0,0,0,0.2) !important;
 }
 #abdata
 {
@@ -930,7 +934,7 @@ color: #ffffff;
 }
 .animate-bus {
     width: 230px;
-    height: 98px;
+    height: 93px;
     -webkit-transition: all 3s ease-in-out;
     -moz-transition: all 3s ease-in-out;
     -ms-transition: all 3s ease-in-out;
@@ -951,7 +955,7 @@ color: #ffffff;
   position: absolute;
     height: 150px;
     z-index: 999999;
-    margin-top: -140px;
+    margin-top: -150px;
 }
 .vc_custom_1531226875928 .wpb_content_element
 {
@@ -984,6 +988,56 @@ p
 {
   color: #333333;
 }
+.showcase-drivers {
+    margin-top: 30px;
+    float: left;
+    width: 100%;
+    font-size: 18px;
+    padding: 0 50px 0 50px;
+}
+.showcase-drivers .col-lg-4, .showcase-drivers p
+{
+  text-align: center;
+}
+.img-part img {
+    height: 60px;
+}
+.img-part {
+    height: 75px;
+}
+#choose .show-item p
+{
+    font-size: 16px;
+    color: #333333;
+}
+.show-item {
+  border: 1px solid #ededed;
+margin-bottom: 30px !important;
+padding: 25px;
+box-shadow: 4px 4px 8px rgba(0,0,0,0.4);
+background-color: #f8f8f8;
+height: 200px;
+}
+#choose .section-title-box {
+    padding-bottom: 15px;
+}
+.mtop
+{
+margin-top:10px;
+}
+.sml
+{
+font-size:14px;
+}
+div#slide-2-layer-2 {
+filter: drop-shadow(-1px 1px 1px #000000);
+}
+div#slide-1-layer-2 {
+filter: drop-shadow(-1px 1px 1px #000000);
+}
+div#slide-3-layer-2 {
+filter: drop-shadow(-1px 1px 1px #000000);
+}
 @media only screen and (max-width:480px)
 {
 #dislist  .list-type__item {
@@ -994,7 +1048,7 @@ p
     font-weight: 600;
     font-size: 15px;
     margin-top: 75px;
-    color: #e63f2b;
+    filter: drop-shadow(-1px 1px 1px #000000);
 }
 .list-type__name
 {
@@ -1056,4 +1110,54 @@ p
     text-align: justify;
     color: #333333;
 }
+.clnt .col-lg-2.col-xs-12 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+div#slide-2-layer-2 {
+    font-size: 22px !important;
+    margin-left: -15px !important;
+filter: drop-shadow(-1px 1px 1px #000000);
+}
+.block-title__inner.section-bg.section-bg_second {
+    background-position: 50% center !important;
+}
+div#slide-1-layer-2 {
+    font-size: 22px !important;
+    margin-left: -270px !important;
+    margin-top: 85px !important;
+filter: drop-shadow(-1px 1px 1px #000000);
+}
+div#slide-3-layer-2 {
+    font-size: 18px !important;
+    margin-left: 10px !important;
+filter: drop-shadow(-1px 1px 1px #000000);
+margin-top: 75px !important;
+}
+.vc_custom_1531925369608, .vc_custom_1531925404393, .vc_custom_1531925429455, .vc_custom_1531925469936, .vc_custom_1531999856516, .vc_custom_1532000620382 {
+    height: 250px;
+}
+.sml {
+    font-size: 12px;
+}
+.rtd img {
+    margin-top: 5px;
+}
+#abdata {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.mtop
+{
+margin-top:10px !important;
+}
+}
+.woocommerce-breadcrumb a {
+    color: #ffffff !important;
+}
+nav.woocommerce-breadcrumb {
+    color: #ffffff;
+}
+html body .wpb_map_wraper {
+    margin: 0px !important;
 }
