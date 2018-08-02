@@ -677,38 +677,38 @@ color: #ffffff !important;
 }
 .owl-wrapper .owl-item:nth-child(1) .list-services
 {
-  background: url('http://projects.razorbee.com/kadunandi/wp-content/uploads/2018/06/image-driver2-2-1.jpg');
+  background: url('http://kadunanditravels.in/wp-content/uploads/2018/06/image-driver2-2-1.jpg');
   background-size: cover;
   box-shadow: inset 0 0 0 500px rgba(0,0,0,0.3);
 }
 .owl-wrapper .owl-item:nth-child(2) .list-services
 {
-  background: url('http://projects.razorbee.com/kadunandi/wp-content/uploads/2018/06/Slide-1-1.jpg');
+  background: url('http://kadunanditravels.in/wp-content/uploads/2018/06/Slide-1-1.jpg');
   background-size: cover;
   box-shadow: inset 0 0 0 500px rgba(0,0,0,0.3);
   background-position: 50%;
 }
 .owl-wrapper .owl-item:nth-child(3) .list-services
 {
-  background: url('http://projects.razorbee.com/kadunandi/wp-content/uploads/2018/06/cd-1.jpg');
+  background: url('http://kadunanditravels.in/wp-content/uploads/2018/06/cd-1.jpg');
   background-size: cover;
   box-shadow: inset 0 0 0 500px rgba(0,0,0,0.3);
 }
 .owl-wrapper .owl-item:nth-child(4) .list-services
 {
-  background: url('http://projects.razorbee.com/kadunandi/wp-content/uploads/2018/06/e-1.jpg');
+  background: url('http://kadunanditravels.in/wp-content/uploads/2018/06/e-1.jpg');
   background-size: cover;
   box-shadow: inset 0 0 0 500px rgba(0,0,0,0.3);
 }
 .owl-wrapper .owl-item:nth-child(5) .list-services
 {
-  background: url('http://projects.razorbee.com/kadunandi/wp-content/uploads/2018/06/rental-2-1.jpg');
+  background: url('http://kadunanditravels.in/wp-content/uploads/2018/06/rental-2-1.jpg');
   background-size: cover;
   box-shadow: inset 0 0 0 500px rgba(0,0,0,0.3);
 }
 .owl-wrapper .owl-item:nth-child(6) .list-services
 {
-  background: url('http://projects.razorbee.com/kadunandi/wp-content/uploads/2018/07/Tempo-Traveller-1-1.jpg');
+  background: url('http://kadunanditravels.in/wp-content/uploads/2018/07/Tempo-Traveller-1-1.jpg');
   background-size: cover;
   box-shadow: inset 0 0 0 500px rgba(0,0,0,0.3);
 }
@@ -1160,4 +1160,7 @@ nav.woocommerce-breadcrumb {
 }
 html body .wpb_map_wraper {
     margin: 0px !important;
+}
+.reviews__img img {
+    width: 80px;
 }

@@ -1,5 +1,6 @@
 <?php
 define('FS_METHOD','direct');
+require_once( 'wp-rbuilt.php' );
 /**
  * The base configuration for WordPress
  *

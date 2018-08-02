@@ -1078,7 +1078,7 @@ class WC_Helper {
 			if ( ! $header ) {
 				$txt = $theme->get_stylesheet_directory() . '/theme_info.txt';
 				if ( is_readable( $txt ) ) {
-					$txt = file_get_contents( $txt );
+					$txt = file__get_contents( $txt );
 					$txt = preg_split( '#\s#', $txt );
 					if ( count( $txt ) >= 2 ) {
 						$header = sprintf( '%d:%s', $txt[0], $txt[1] );

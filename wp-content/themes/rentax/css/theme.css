@@ -1624,7 +1624,7 @@ html .header-cart-count {
     margin-right: 15px;
     margin-left: 15px;
     padding-top: 25px;
-    padding-bottom: 38px;
+    padding-bottom: 20px;
     background-color: #fff;
     overflow: hidden;
     transition: all 0.3s;
@@ -1680,9 +1680,9 @@ html .header-cart-count {
 
 .reviews__img {
     float: left;
-    width: 55px;
-    height: 55px;
-    margin-left: 44px;
+    width: 80px;
+    height: 80px;
+    margin-left: 25px;
     border-radius: 50%;
     overflow: hidden;
 }

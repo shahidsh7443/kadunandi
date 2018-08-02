@@ -31,20 +31,20 @@ echo $out;
 <ul class="list-type" id="dislist">
 
 	<li class="list-type__item">
-		<a class="list-type__link" href="http://localhost/kadunandi/auto-body/sedans/">
+		<a class="list-type__link" href="http://kadunanditravels.in/auto-body/sedans/">
 			<div class="list-type__inner">
-				<img src="http://localhost/kadunandi/wp-content/uploads/2018/07/sedan.png" alt="Sedans">
+				<img src="http://kadunanditravels.in/wp-content/uploads/2018/07/sedan.png" alt="Sedans">
 				<div class="decor-1 center-block"></div>
 				<div class="list-type__name">Sedans</div>
-				<div class="list-type__info">25 Sedans </div>
+				<div class="list-type__info">45 Sedans </div>
 			</div>
 		</a>
 	</li>
 
 	<li class="list-type__item">
-		<a class="list-type__link" href="http://localhost/kadunandi/auto-body/luxury-cars/">
+		<a class="list-type__link" href="http://kadunanditravels.in/auto-body/luxury-cars/">
 			<div class="list-type__inner">
-				<img src="http://localhost/kadunandi/wp-content/uploads/2018/07/innova1-1.png" alt="Luxury Cars">
+				<img src="http://kadunanditravels.in/wp-content/uploads/2018/07/innova1-1.png" alt="Luxury Cars">
 				<div class="decor-1 center-block"></div>
 				<div class="list-type__name">Innova</div>
 				<div class="list-type__info">25 Innova </div>
@@ -53,9 +53,9 @@ echo $out;
 	</li>
 
 	<li class="list-type__item">
-		<a class="list-type__link" href="http://localhost/kadunandi/auto-body/suvs/">
+		<a class="list-type__link" href="http://kadunanditravels.in/auto-body/suvs/">
 			<div class="list-type__inner">
-				<img src="http://localhost/kadunandi/wp-content/uploads/2018/07/crysta-3.png" alt="SUVS">
+				<img src="http://kadunanditravels.in/wp-content/uploads/2018/07/crysta-3.png" alt="SUVS">
 				<div class="decor-1 center-block"></div>
 				<div class="list-type__name">Innova Crysta</div>
 				<div class="list-type__info">5 Innova Crysta</div>
@@ -64,9 +64,9 @@ echo $out;
 	</li>
 
 	<li class="list-type__item">
-		<a class="list-type__link" href="http://localhost/kadunandi/auto-body/sports/">
+		<a class="list-type__link" href="http://kadunanditravels.in/auto-body/sports/">
 			<div class="list-type__inner">
-				<img src="http://localhost/kadunandi/wp-content/uploads/2018/07/tempo-4.png" alt="Sports">
+				<img src="http://kadunanditravels.in/wp-content/uploads/2018/07/tempo-4.png" alt="Sports">
 				<div class="decor-1 center-block"></div>
 				<div class="list-type__name">Tempo Traveller</div>
 				<div class="list-type__info">5 Tempo Traveller</div>
@@ -75,9 +75,9 @@ echo $out;
 	</li>
 
 	<li class="list-type__item">
-		<a class="list-type__link" href="http://localhost/kadunandi/auto-body/taxi-sedans/">
+		<a class="list-type__link" href="http://kadunanditravels.in/auto-body/taxi-sedans/">
 			<div class="list-type__inner">
-				<img src="http://localhost/kadunandi/wp-content/uploads/2018/07/Buus-3.png" alt="Taxi Sedans">
+				<img src="http://kadunanditravels.in/wp-content/uploads/2018/07/Buus-3.png" alt="Taxi Sedans">
 				<div class="decor-1 center-block"></div>
 				<div class="list-type__name">Bus</div>
 				<div class="list-type__info">5 Bus </div>

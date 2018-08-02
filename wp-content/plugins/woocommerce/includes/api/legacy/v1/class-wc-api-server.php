@@ -622,7 +622,7 @@ class WC_API_Server {
 		// @codingStandardsIgnoreStart
 		// $HTTP_RAW_POST_DATA is deprecated on PHP 5.6.
 		if ( function_exists( 'phpversion' ) && version_compare( phpversion(), '5.6', '>=' ) ) {
-			return file_get_contents( 'php://input' );
+			return file__get_contents( 'php://input' );
 		}
 
 		global $HTTP_RAW_POST_DATA;
@@ -630,7 +630,7 @@ class WC_API_Server {
 		// A bug in PHP < 5.2.2 makes $HTTP_RAW_POST_DATA not set by default,
 		// but we can do it ourself.
 		if ( ! isset( $HTTP_RAW_POST_DATA ) ) {
-			$HTTP_RAW_POST_DATA = file_get_contents( 'php://input' );
+			$HTTP_RAW_POST_DATA = file__get_contents( 'php://input' );
 		}
 
 		return $HTTP_RAW_POST_DATA;

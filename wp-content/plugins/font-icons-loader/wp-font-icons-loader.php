@@ -119,7 +119,7 @@ function fil_fonts_switch($path, $active_fonts) {
 						add_filter('vc_iconpicker-type-pixfontawesome', function ($icons) use ($file_style) {
 							$typicons_icons = array();
 
-							$cssFileContent = file_get_contents($file_style);
+							$cssFileContent = file__get_contents($file_style);
 							preg_match_all('/\.fa-(.*)\:/', $cssFileContent, $matches);
 
 							if (isset($matches) && !empty($matches)) {
@@ -141,7 +141,7 @@ function fil_fonts_switch($path, $active_fonts) {
 						add_filter('vc_iconpicker-type-pixicomoon', function ($icons) use ($file_style) {
 							$typicons_icons = array();
 
-							$cssFileContent = file_get_contents($file_style);
+							$cssFileContent = file__get_contents($file_style);
 							preg_match_all('/\.icomoon-([^\:]+)/', $cssFileContent, $matches);
 
 							if (isset($matches) && !empty($matches)) {
@@ -163,7 +163,7 @@ function fil_fonts_switch($path, $active_fonts) {
 						add_filter('vc_iconpicker-type-pixsimple', function ($icons) use ($file_style) {
 							$typicons_icons = array();
 
-							$cssFileContent = file_get_contents($file_style);
+							$cssFileContent = file__get_contents($file_style);
 							preg_match_all('/\.icon-(.*)\:/', $cssFileContent, $matches);
 
 							if (isset($matches) && !empty($matches)) {
@@ -186,7 +186,7 @@ function fil_fonts_switch($path, $active_fonts) {
 							$typicons_icons = array();
 
 
-							$cssFileContent = file_get_contents($file_style);
+							$cssFileContent = file__get_contents($file_style);
 							preg_match_all('/\.flaticon-([^\:]+)/', $cssFileContent, $matches);
 
 							if (isset($matches) && !empty($matches)) {
@@ -209,7 +209,7 @@ function fil_fonts_switch($path, $active_fonts) {
 						add_filter('vc_iconpicker-type-pixelegant', function ($icons) use ($file_style) {
 							$typicons_icons = array();
 
-							$cssFileContent = file_get_contents($file_style);
+							$cssFileContent = file__get_contents($file_style);
 							preg_match_all('/\.(.*)\:/', $cssFileContent, $matches);
 
 							if (isset($matches) && !empty($matches)) {
@@ -231,7 +231,7 @@ function fil_fonts_switch($path, $active_fonts) {
 						add_filter('vc_iconpicker-type-pixstroke', function ($icons) use ($file_style) {
 							$typicons_icons = array();
 
-							$cssFileContent = file_get_contents($file_style);
+							$cssFileContent = file__get_contents($file_style);
 							preg_match_all('/\.(.*)\:/', $cssFileContent, $matches);
 
 							if (isset($matches) && !empty($matches)) {
@@ -254,7 +254,7 @@ function fil_fonts_switch($path, $active_fonts) {
 						add_filter("vc_iconpicker-type-pixcustom$i", function ($icons) use ($file_style) {
 							$typicons_icons = array();
 
-							$cssFileContent = file_get_contents($file_style);
+							$cssFileContent = file__get_contents($file_style);
 							preg_match_all('/\.(.*)\:before/', $cssFileContent, $matches);
 
 							if (isset($matches) && !empty($matches)) {

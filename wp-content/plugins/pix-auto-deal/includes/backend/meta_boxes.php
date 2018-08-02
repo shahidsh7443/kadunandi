@@ -717,7 +717,7 @@ function pixad_get_external_video_img($post_id) {
 		return 'http://img.youtube.com/vi'.esc_attr($vendor['path']).'/hqdefault.jpg';
 	} elseif ($vendor['host'] == 'vimeo.com'){
 		$imgid = esc_attr($vendor['path']);
-		$hash = unserialize(file_get_contents("http://vimeo.com/api/v2/video$imgid.php"));
+		$hash = unserialize(file__get_contents("http://vimeo.com/api/v2/video$imgid.php"));
 		return $hash[0]['thumbnail_large'];
 	} else {
 		return '';
