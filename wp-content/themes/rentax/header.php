@@ -8,7 +8,7 @@
 
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
-
+<link rel="icon" type="image/jpg" href="http://kadunanditravels.in/wp-content/uploads/2018/07/Untitled-1-1.png">
 <?php wp_head(); ?>
 </head>
 
@@ -27,14 +27,14 @@
 <?php if( (rentax_get_option('general_settings_loader','useall') == 'usemain' && is_front_page()) || rentax_get_option('general_settings_loader','useall') == 'useall' ) : ?>
 <!-- Loader -->
 	<div id="page-preloader">
-        
+
         <div class="thecube">
     		<div class="cube c1"></div>
     		<div class="cube c2"></div>
     		<div class="cube c4"></div>
     		<div class="cube c3"></div>
     	</div>
-    
+
     </div>
 <!-- Loader end -->
 <?php endif; ?>
@@ -100,6 +100,3 @@
 ?>
 
 <div id="wrapper">
-
-
-
